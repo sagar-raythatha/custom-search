@@ -54,7 +54,7 @@ def search_with_criteria(list_keywords, string):
         return False
 
 
-def search_within(list_of_keywords, string):
+def search_matching_rules(list_of_keywords, string):
     matching_rules = []
     for keyword_string in list_of_keywords:
         keyword_string = pre_processing(keyword_string)
