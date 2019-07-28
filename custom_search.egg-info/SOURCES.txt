@@ -1,7 +1,7 @@
 README.md
 setup.py
-custom-search/__init__.py
-custom-search/custom_search.py
+custom_search/__init__.py
+custom_search/custom_search.py
 custom_search.egg-info/PKG-INFO
 custom_search.egg-info/SOURCES.txt
 custom_search.egg-info/dependency_links.txt

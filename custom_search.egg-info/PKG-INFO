@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: custom-search
-Version: 0.0.1
+Version: 0.0.2
 Summary: Custom search work like twitter search matching rules
 Home-page: https://github.com/pypa/sampleproject
 Author: Sagar Raythatha
@@ -16,7 +16,7 @@ Description: # Custom Search Package
         [Github-flavored Markdown](https://guides.github.com/features/mastering-markdown/)
         to write your content.
 Platform: UNKNOWN
-Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 2.7
 Classifier: License :: OSI Approved :: MIT License
 Classifier: Operating System :: OS Independent
 Description-Content-Type: text/markdown
